@@ -2,8 +2,9 @@
 # Playwright
 node_modules/
 /test-results/
-/playwright-report/
+/playwright-report/!books-inventory-test-report.pdf
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
 admin.json
+
